@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://i2etr0.github.io" target="_blank">I2etr0</a> 
+<h1 align="center">Hi there, I'm <a href="https://i2etr0.github.io" target="_blank">I2etr0</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Former student programmer, now Junior DevOps engineer and python lover from sunny Georgia 🇬🇪 </h3>
 
 - 👀 I really love Python, Linux, DevOps and process automation!
